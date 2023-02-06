@@ -1,1 +1,1 @@
-# ataturk
+Eski ortağımla yaptığım bot
